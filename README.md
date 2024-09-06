@@ -1,2 +1,2 @@
 # Animal_Caths
- UnityPrototype2
+Unity Junior Programmer Prototype 2
